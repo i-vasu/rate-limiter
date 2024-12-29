@@ -10,7 +10,10 @@
     it limits the no.of requests from user in a specified timeframe, protecting for DoS/resorce efficiency, more traffic -> more drop rate -> adds latency.
   ### How to reduce latency?
     Keep decentralised/distributed rate-limiter, to handle spike or burst in traffic i.e, depends on traffic patterns
-    Approach : Centralised DB, Distributed Cache(to Store rate-mititng data), RateLimiter-As-A-Service 
+  ### Approach
+    1. Centralised DB, 
+    2. Distributed Cache(to Store rate-mititng data), 
+    3. RateLimiter-As-A-Service 
     
     
     
