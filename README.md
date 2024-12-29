@@ -17,7 +17,11 @@
     2. Distributed Cache(to Store rate-mititng data), 
     3. RateLimiter-As-A-Service 
     
-    
+  ### Tocken Bucket
+    TODO- When to use which, who is using what
+  ### Leaky Bucket
+  ### Fixed Window
+  ### Sliding Window
     
     
   
